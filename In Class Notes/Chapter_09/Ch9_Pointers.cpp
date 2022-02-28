@@ -1,5 +1,4 @@
 #include <iostream>
-
 using namespace std;
 
 /*
@@ -18,7 +17,7 @@ using namespace std;
 
 
 */
-
+/*
 void showNumbers(int numbers[], int size){
     for (int i = 0; i < size; i++){
         cout << numbers[i] << " ";
@@ -42,3 +41,29 @@ int main(){
     showNumbers(numbers, 4);
         return 0;
 }
+
+double* makeDoubleArray(int size){
+    double* doubleArray = new double[size];
+    for (int i = 0; i<size; )
+}
+int main(){
+    int size;
+    cout << "Enter the size of the array\n";
+    cin >> size;
+
+    double* doubleArray = makeDoubleArray;
+
+    for (int i = 0; i < size; i++){
+        cout << *(doubleArray + i) << endl;
+    }
+
+    for (int i = 0; i < size; i++){
+        cout << *(doubleArray + i) << endl;
+    }
+
+    delete [] doubleArray;
+
+    system("pause");
+    return 0;
+}
+*/
