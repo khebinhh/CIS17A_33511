@@ -1,3 +1,8 @@
+To display payment type/salary
+This must calculate pay for either an hourly paid worker or a salaried worker.
+Hourly paid workers are paid their hourly pay rate times the number of hours worked.
+Salaried workers are paid their regular salary plus any bonus they may have earned.
+
 The program should declare two structures for the following data:
 
     Hourly Paid:
