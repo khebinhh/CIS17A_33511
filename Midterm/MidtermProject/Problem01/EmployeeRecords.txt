@@ -2,15 +2,16 @@ Write a program that tracks employee information.
 The program should use classes for employee records. 
 Each employee should have a record containing the following information:
 
-First Name
-Last Name
-Phone Number
-Address
-City
-State Zip
-Position
-Job title
-Payment type
+    First Name
+    Last Name
+    Phone Number
+    Address
+    City
+    State Zip
+    Position
+    Job title
+    Payment type
+
 The program should be able to allow for the following:
 
 the input of new employees,
