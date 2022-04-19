@@ -1,0 +1,18 @@
+The program should declare two structures for the following data:
+
+    Hourly Paid:
+        HoursWorked
+        HourlyRate
+    Salaried:
+        Salary
+        Bonus
+
+The program should ask the user whether he or she is calculating the pay for an hourly paid worker or a salaried worker. 
+Regardless of which the user selects, the appropriate members of the union will be used to store the data that will be used to calculate the pay.
+
+Input Validation: Do not accept negative numbers. Do not accept values greater than 80 for HoursWorked.
+
+Write a menu that allows the user to Save the data to a file. The program should prompt the user to perform the following tasks:
+
+Load records from the file.
+Save records to the file.
